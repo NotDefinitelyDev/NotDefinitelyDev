@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NotDefinitelyDev/NotDefinitelyDev/main/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+<img src="https://raw.githubusercontent.com/NotDefinitelyDev/NotDefinitelyDev/output/snake.svg" alt="Snake animation" />
 
 
 
