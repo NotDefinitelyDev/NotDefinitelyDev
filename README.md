@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NotDefinitelyDev/NotDefinitelyDev/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/NotDefinitelyDev/github-contribution-grid-snake.svg" />
 
 ###
