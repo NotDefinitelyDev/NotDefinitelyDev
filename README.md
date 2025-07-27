@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nour El-Deen Ehab and I'm a React Developer, from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Nour El-Deen Ehab and I'm Front-End Dev, from Egypt</h2>
 
 
 
