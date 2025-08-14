@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Nour El-Deen Ehab and I'm Front-End Dev, from Egypt</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=My+name+is+Nour+El-Deen+Ehab;Full-stack+web+developer;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  </a>
+</p>
+
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
